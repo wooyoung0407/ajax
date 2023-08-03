@@ -1,5 +1,6 @@
 package com.example.ajax;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
